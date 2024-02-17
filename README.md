@@ -56,23 +56,19 @@ ______________________________________________________________________
 
 #### Computer Science / Software Engineering
 
-- C Programming Language
-- Algorithms
-- Clean Code
-- Pragmatic Programmer
-- Soft Skills for Software Developers
-- Software Metrics
+- ⭐
+  [*C Programming Language, 2nd Edition 2nd Edition* by by Brian W. Kernighan and Dennis M. Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+- ⭐
+  [*Clean Code: A Handbook of Agile Software Craftsmanship 1st Edition* by Robert C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- ⭐[*The Pragmatic Programmer: Your Journey To Mastery, 20th Anniversary Edition (2nd Edition)* by David Thomas and Andrew Hunt](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+- [*Algorithms* by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/#book)
+- [*Software Metrics: A Rigorous and Practical Approach, Third Edition (Chapman & Hall/CRC Innovations in Software Engineering and Software Development Series) 3rd Edition* by Norman Fenton and James Bieman](https://www.amazon.com/Software-Metrics-Rigorous-Practical-Approach/dp/0367659026/)
+- [*Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition* by Frederic P. Brooks, Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 
 #### Machine Learning / Deep Learning
 
-- Python Machine Learning
-- Deep Learning with Python
-
-#### Math
-
-#### Leadership
-
-- The Mythical Man Month
+- [*Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2, 3rd Edition* by Sebastian Raschka and Vahid Mirjalili](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750)
+- [*Deep Learning with Python, Second Edition* by Francois Chollet](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864)
 
 #### Research
 
@@ -86,20 +82,10 @@ ______________________________________________________________________
 - ⭐
   [*Academic Writing for Graduate Students: Essential Tasks and Skills* by John M. Swales](https://www.amazon.com/gp/product/0472034758/)
 
-### Fiction Books
-
-- The Alchemist
-- Shogun
-- The Immortal Nicholas Flammel
-- Lleven Thumps
-- Hugo
-
-### Financial Books
-
 ### "People" Books
 
-- Soft Skills The Software Developer's Life Manual
+- [*Soft Skills: The Software Developer's Life Manual* by John Sonmez](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/0999081446)
 
 ### Philosophy Books
 
-- The Subtle Art of Not Giving a F\*ck
+- [*The Subtle Art of Not Giving a F\*ck: A Counterintuitive Approach to Living a Good Life* by Mark Manson](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457721/ref=tmm_pap_swatch_0?_encoding=UTF8&sr=8-1)
