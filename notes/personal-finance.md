@@ -99,45 +99,169 @@ ______________________________________________________________________
 
 ### *Everyday Millionaires* by Chris Hogan
 
-- Millionares are individuals with a net worth of at least $1,000,000 (page 4)
-- 8 out of 10 millionaires come from families at or below the middle-class
-  income (page 25)
-- Millionaires report the top two contributing factors to becoming wealthy are
-  **discipline** and **consistency** (page 34)
-- When you invest in single stocks... You're placing a bet on that one company,
-  and there's nothing you can do to control the outcome (page 47)
-- Instead of putting ten eggs in one basket, mutual funds give me the chance to
-  put one egg in ten baskets (page 47)
-  - Mutual funds provide an opportunity to divset your investement
-- Cryptocurrencies come with almost 100% risk (page 48)
-- Partnerships often fall aprt due to... drugs, divorce, death, and debt (page
-  49\)
-- \[Millionaires\] understand that some risk is necessary, but they aren't
-  stupid and reckless (page 50)
-- A home equity line of credit is a second mortgage (page 55)
-- And wealthy people avoid debt (page 59 - 60)
-- But no ammount of education will make up for someone who is content to live an
-  unmotivated, unknowledgeable life (page 70)
-- Only 15% of millionaires are in senior leadership positions in their
-  companies, and only 7% are C-suite executives (page 74)
-- Replace negative voices with positive voices (page 110)
-  - A coach (page 111)
-  - A mentor (page 111)
-  - A cheerleader (page 112)
-  - A friend (page 112)
+- "Millionares are individuals with a net worth of at least $1,000,000", (page
+  4\)
+- "8 out of 10 millionaires come from families at or below the middle-class
+  income", (page 25)
+- "Millionaires report the top two contributing factors to becoming wealthy are
+  **discipline** and **consistency**", (page 34)
+- "When you invest in single stocks... You're placing a bet on that one company,
+  and there's nothing you can do to control the outcome", (page 47)
+- "Instead of putting ten eggs in one basket, mutual funds give me the chance to
+  put one egg in ten baskets", (page 47)
+  - "Mutual funds provide an opportunity to divset your investement
+- "Cryptocurrencies come with almost 100% risk", (page 48)
+- "Partnerships often fall aprt due to... drugs, divorce, death, and debt",
+  (page 49)
+- "\[Millionaires\] understand that some risk is necessary, but they aren't
+  stupid and reckless", (page 50)
+- "A home equity line of credit is a second mortgage", (page 55)
+- "And wealthy people avoid debt", (page 59 - 60)
+- "But no ammount of education will make up for someone who is content to live
+  an unmotivated, unknowledgeable life", (page 70)
+- "Only 15% of millionaires are in senior leadership positions in their
+  companies, and only 7% are C-suite executives", (page 74)
+- "Replace negative voices with positive voices", (page 110)
+  - "A coach", (page 111)
+  - "A mentor", (page 111)
+  - "A cheerleader", (page 112)
+  - "A friend", (page 112)
 - **Deciding** versus **Sliding** (page 123)
   - **Deciding**: You're in control (page 123)
   - **Sliding**: Things "just happen" to you; you allow them to happen (page
     123\)
-- \[A budget is\] a spending plan, a way to track all the money coming in and
-  all the money going out in a month (page 128)
-  - Recommended tool: [EveryDollar](www.everydollar.com) (page 128)
-- Millionaires stay away from debt (page 133)
-- 73% of millionaires have never carried a credit-card balance in their lives
-  (page 133)
-- 92% of millionaires develop a long-term plan for their money, compared to 60%
-  of the general population (page 143)
+- "\[A budget is\] a spending plan, a way to track all the money coming in and
+  all the money going out in a month", (page 128)
+  - Recommended tool: [EveryDollar](www.everydollar.com)", (page 128)
+- "Millionaires stay away from debt", (page 133)
+- "73% of millionaires have never carried a credit-card balance in their lives
+  ", (page 133)
+- "92% of millionaires develop a long-term plan for their money, compared to 60%
+  of the general population", (page 143)
   - Thinking ahead to the next month, year, five years, decade, etc.
+- The bridge period is the time between retiring and taking money out of
+  retirement accounts (page 153)
+- "It took the average millionaire 10.2 years to pay off their homes, and 67% of
+  them live in homes with paid-off mortgages", (page 154)
+- "Millionaires live in average-sized homes that they've lived in for a long
+  time", (page 155)
+- 15 year mortgages are far better, if pricier, than 30 year mortgages as the
+  interest saved in 15 years is greater than the monthly savings in 30 years
+  (page 157)
+- "... strive to become ... hungry (a motivated go-getter), humble ..., and
+  smart", (page 174)
+  - From Patrick Lencioni's *The Ideal Team Player*
+- "96% of millionaires are always trying to learn new things", (page 177)
+- "86% of millionaires believe challenging themselves will make them smarter",
+  (page 178)
+- "80% of millionaires are married, compared to 49% of the general population",
+  (page 191)
+- "Compound interest is the eigth wonder of the world. He who understands it
+  *earns* it. He who doesn't *pays* it", (page 195)
+  - Thought to be said by Albert Einstein
+- "... Financial independence means you're free from debt ... your assests have
+  grown into a mountain of wealth ... \[and\] you have a self-sustaining income
+  stream for the rest of your life", (page 214)
+
+#### Action Steps to Become an Everyday Millionaire
+
+> (page 234)
+
+1. Know where you are
+1. Dream big
+1. Confirm your target
+1. Choose intentionality
+1. Set goals for your money and yourself
+1. Partner with an investment professional
+
+#### Key Points of Financial Independence
+
+> (page 217)
+
+- Flexibility of time
+- Margin (not living paycheck to paycheck)
+- Options (power to make choices)
+- Availability (be there for the people you care about)
+
+#### Protecting Your Financial Independence
+
+> (page 220)
+
+Ensure you have the following
+
+- Term life insurance
+- Car insurance
+- Homeowner's or renter's insurance
+- Umbrella policy (extra liability coverage)
+- Health insurance
+- Long-term disbility insurance
+- Long-term care insurance (age 60 and up)
+- Identity theft protection
+
+#### How To Invest
+
+> (pages 199 - 207)
+
+0. Set aside 15% of your income for retirement investment
+1. Invest both *inside* and *outside* the company plan
+1. If your company offers a 401(k) plan, invest up to the match
+1. Max out a Roth IRA (can be done by both partners if married) if possible
+1. If you haven't hit the 15% mark yet, invest the rest into the 401(k)
+
+##### 401(k) Specific Help
+
+1. Signup for 401(k) automatic paycheck withdrawls
+1. Always take the 401(k) option if your company offers it
+1. Always take the 401(k) match if your company offers it
+1. After age 50, take advantage of 401(k) catch-up
+
+#### Make Today Count
+
+> (page 182)
+
+1. Get up early
+1. Read a book
+1. Get moving
+
+#### Benefits of Hard Work
+
+> (pages 172 - 174)
+
+1. A committement to hard work builds patience
+1. A good work ethic enables you to experience progress
+1. Work gives you a sense of accomplishment
+1. Good work continujally builds your self-confidence
+1. Hard work makes an impact on your career
+
+#### Dave Ramsey's 7 Baby Steps
+
+> (page 147) References Dave Ramsey's *The Total Money Makeover*
+
+1. Save $1,000
+1. Pay off all debt (except the house) using the debt snowball (pay off smallest
+   *principle* loans first)
+1. Save 3 - 6 months of expenses in a fully funded emergency fund
+1. Invest 15% of your household income in retirement
+1. Save for your children's college fund
+1. Pay off your home early
+1. Build wealth and give
+
+**NOTE from Nicholas M. Synovic**: Step 4 doesn't specify if you should take the
+10% you keep for yourself (as described in *The Richest Man in Babylon*) and
+bump it up to 15%, or take an additional 15% for retirement funding (thereby
+leaving you with 75% of your income to live off of)
+
+#### Goals For Your Money
+
+> (pages 147 - 150)
+
+1. Follow the 7 baby steps
+1. Visualize results
+1. Break down goals into smaller sub goals
+1. Track your progress towards all goals
+1. Reward yourself along the way
+1. Get encouragement
+1. Learn from winners
 
 #### SMART Goals
 
@@ -197,57 +321,81 @@ ______________________________________________________________________
 
 #### Millionares Do
 
-- Believe they can become millionares (page 16)
-- Reject the voices that say it can't be done (page 16)
-- Put their heads down, get to work, and make it happen (page 16)
-- Build wealth on their own without any inheritance (page 36)
-- Believe anyone in America can become a millionaire with discipline and hard
+- "Believe they can become millionares (page 16)
+- "Reject the voices that say it can't be done (page 16)
+- "Put their heads down, get to work, and make it happen (page 16)
+- "Build wealth on their own without any inheritance (page 36)
+- "Believe anyone in America can become a millionaire with discipline and hard
   work (page 36)
-- Build their wealth through retirement plans (page 58)
-- Believe they control their own destinies (page 58)
-- Understand that it takes years - decades, in fact - of consistent investing
+- "Build their wealth through retirement plans (page 58)
+- "Believe they control their own destinies (page 58)
+- "Understand that it takes years - decades, in fact - of consistent investing
   reach millionaire status (page 58)
-- Go to college (page 80)
-- Work for companies and not for themselves (page 80)
-- Have regular jobs (page 80)
-- Believe millionaire status is available to them (page 96)
-- Understand each person starts at a different place and may have more obstacles
-  to vercome, but they don't let obstacles stop them from trying (page 96)
-- Come from all walks of life, all different parts of the country, and all
+- "Go to college (page 80)
+- "Work for companies and not for themselves (page 80)
+- "Have regular jobs (page 80)
+- "Believe millionaire status is available to them (page 96)
+- "Understand each person starts at a different place and may have more
+  obstacles to vercome, but they don't let obstacles stop them from trying (page
+  96\)
+- "Come from all walks of life, all different parts of the country, and all
   different socioeconomic backgrounds (page 96)
-- Own their mistakes and change course when needed (page 118)
-- Take advice from others (page 118)
-- Use financial planners (page 118)
-- Live on less than they make (page 138)
-- Plan ahead and pay cash (page 138)
-- Use coupons (page 138)
-- Use shopping lists and stick to them (page 138)
-- Drive older cars with no car payments (page 138)
+- "Own their mistakes and change course when needed (page 118)
+- "Take advice from others (page 118)
+- "Use financial planners (page 118)
+- "Live on less than they make (page 138)
+- "Plan ahead and pay cash (page 138)
+- "Use coupons (page 138)
+- "Use shopping lists and stick to them (page 138)
+- "Drive older cars with no car payments (page 138)
+- "Set goals", (page 162)
+- "Accomplish their goals", (page 162)
+- "Save consistently", (page 162)
+- "Work hard", (page 184)
+- "Believe reaching millionaire status is more about how hard you work than how
+  much you make", (page 184)
+- "Enjoy their job", (page 184)
+- "Exercise regularly", (page 184)
+- "Wake up early", (page 184)
+- "Stay married", (page 208)
+- "Take advantage of their company reitrement plan", (page 208)
+- "Invest consistently", (page 208)
+- "Invest in other ways", (page 208)
 
 #### Millionares Don't
 
-- Believe the populare lies about the wealthy (page 17)
-- Care about impressing other people (page 17)
-- Let their humble beginning stop them from winning (page 17)
-- Give up when things get hard (page 17)
-- All come from upper-class homes (page 37)
-- Rely on luck (page 37)
-- Take huge risks through get-rich-quick gimmickls and fad investments (page 59)
-- Take out higher-risk loans (page 59)
-- Borrow money from their friends (page 59)
-- Attend fancy, exclusive universities (page 81)
-- Ace all their classes in college (page 81)
-- Take out student loans (page 81)
-- All have high-paying jobs (page 81)
-- Buy into the common myths about wealth and the wealthy (page 97)
-- Make excuses or believe their success depends on anyone else (page 97)
-- Let fear and doubt keep them from winning (page 97)
-- Think negatively (page 119)
-- Let the unknown scare them off (page 119)
-- Go out ot eat every night (page 139)
-- Try to impress anyone (page 139)
-- Pay their bills late (page 139)
-- Have credit card debt (page 139)
+- "Believe the populare lies about the wealthy (page 17)
+- "Care about impressing other people (page 17)
+- "Let their humble beginning stop them from winning (page 17)
+- "Give up when things get hard (page 17)
+- "All come from upper-class homes (page 37)
+- "Rely on luck (page 37)
+- "Take huge risks through get-rich-quick gimmickls and fad investments (page
+  59\)
+- "Take out higher-risk loans (page 59)
+- "Borrow money from their friends (page 59)
+- "Attend fancy, exclusive universities (page 81)
+- "Ace all their classes in college (page 81)
+- "Take out student loans (page 81)
+- "All have high-paying jobs (page 81)
+- "Buy into the common myths about wealth and the wealthy (page 97)
+- "Make excuses or believe their success depends on anyone else (page 97)
+- "Let fear and doubt keep them from winning (page 97)
+- "Think negatively (page 119)
+- "Let the unknown scare them off (page 119)
+- "Go out ot eat every night (page 139)
+- "Try to impress anyone (page 139)
+- "Pay their bills late (page 139)
+- "Have credit card debt (page 139)
+- "Live in mansions", (page 163)
+- "Keep their home mortgages for the tax advantage", (page 163)
+- "All retire when they hit $1 million net worth", (page 185)
+- "Support their adult children", (page 185)
+- "Allow their grown children to live with them", (page 185)
+- "Have miserable marriages", (page 209)
+- "Have sophisticated or complicated reitrement plans and investment
+  strategies", (page 209)
+- "Soley rely on themselves for investment planning", (page 209)
 
 #### Three Catagories of Myths About Millionares
 
