@@ -16,7 +16,7 @@ ______________________________________________________________________
 
 ## Notes
 
-### *The Richest Man in Babylon: The World's Favorite Inspirational Guide to Managing Wealth (Classic Edition) (Arcturus Classics for Financial Freedom)* by George Samuel Clason
+### ⭐*The Richest Man in Babylon: The World's Favorite Inspirational Guide to Managing Wealth (Classic Edition) (Arcturus Classics for Financial Freedom)* by George Samuel Clason
 
 - "Money is the medium by which earthly success is measured. Money makes
   possible the enjoyment of the best the earth affords. Money is plentiful for
