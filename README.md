@@ -52,9 +52,7 @@ process of being updated with the relevant information.
 
 ______________________________________________________________________
 
-### Career
-
-#### Computer Science / Software Engineering
+### Computer Science / Software Engineering
 
 - ⭐
   [*C Programming Language, 2nd Edition 2nd Edition* by by Brian W. Kernighan and Dennis M. Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
@@ -65,19 +63,19 @@ ______________________________________________________________________
 - [*Software Metrics: A Rigorous and Practical Approach, Third Edition (Chapman & Hall/CRC Innovations in Software Engineering and Software Development Series) 3rd Edition* by Norman Fenton and James Bieman](https://www.amazon.com/Software-Metrics-Rigorous-Practical-Approach/dp/0367659026/)
 - [*Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition* by Frederic P. Brooks, Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 
-#### Machine Learning / Deep Learning
+### Machine Learning / Deep Learning
 
 - [*Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2, 3rd Edition* by Sebastian Raschka and Vahid Mirjalili](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750)
 - [*Deep Learning with Python, Second Edition* by Francois Chollet](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864)
 
-#### Research
+### Research
 
 - ⭐
   [*Ori Introduction to the Responsible Conduct of Research* by Nicholas H. Steneck, David Zinn](https://ori.hhs.gov/ori-introduction-responsible-conduct-research)
 - [*Academic Writing for Graduate Students: Essential Tasks and Skills* by John M. Swales](https://www.amazon.com/gp/product/0472034758/)
 - [*Science in Environmental Policy: The Politics of Objective Advice* by Ann Campbell Keller](https://www.amazon.com/gp/product/0262512963/)
 
-#### Writing
+### Writing
 
 - ⭐
   [*Academic Writing for Graduate Students: Essential Tasks and Skills* by John M. Swales](https://www.amazon.com/gp/product/0472034758/)
@@ -85,6 +83,11 @@ ______________________________________________________________________
 ### "People" Books
 
 - [*Soft Skills: The Software Developer's Life Manual* by John Sonmez](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/0999081446)
+
+### Personal Finance
+
+- ⭐[*The Richest Man in Babylon: The World's Favorite Inspirational Guide to Managing Wealth (Classic Edition) (Arcturus Classics for Financial Freedom)* by George Samuel Clason](https://www.amazon.com/gp/product/1398821055)
+- [*Everyday Millionaires* by Chris Hogan](https://www.amazon.com/gp/product/0977489523)
 
 ### Philosophy Books
 
